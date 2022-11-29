@@ -1,7 +1,4 @@
-# CMPE202 Individualproject Jigar Desai
-
-Name : Jigar Desai
-Student Id: 015213263.
+# Simple Java-based marketplace application designed to showcase design patterns as a part of a class project.
 
 ## Design Patterns used:
 * The Singleton Design Pattern was used to guarantee that the AppDatabase class only has one instance while still giving a global access point to it.
